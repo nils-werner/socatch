@@ -6,22 +6,28 @@ Automatically open exceptions in StackOverflow. Because it's a running gag on Tw
 Installation
 ------------
 
-    $ pip install socatch
+```bash
+$ pip install socatch
+```
 
 Usage
 -----
 
 **Manual Catching.** Lets you define a `try...except` clause after which StackOverflow is opened.
 
-    import socatch
+```python
+import socatch
 
-    try:
-        ...
-    except Exception as e:
-        socatch.catch(e)
+try:
+    ...
+except Exception as e:
+    socatch.catch(e)
+```
 
 **Automatic catching.** Will open all unhandled exceptions.
 
-    import socatch.all
+```python
+import socatch.all
+```
 
 Done.
