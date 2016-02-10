@@ -1,7 +1,7 @@
 StackOverflow Exception Catcher
 ===============================
 
-Automatically open exceptions in StackOverflow. Because it's a running gag on Twitter now.
+Automatically open exceptions in StackOverflow. Because it's a [running](https://twitter.com/DivineOmega/status/695744177557106688) [gag](https://twitter.com/DivineOmega/status/696806187526983680) on Twitter now.
 
 Installation
 ------------
